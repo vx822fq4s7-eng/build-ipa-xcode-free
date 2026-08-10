@@ -1,11 +1,11 @@
 {
-    "xcodeZip":  "Xcode-Input/xcode-nroking-28-07-2026.zip",
-    "xcodeSrc":  "Xcode-Input/extracted/xcode-nroking-28-07-2026",
+    "xcodeZip":  "Xcode-Input/Xcode-Slayer-030826.zip",
+    "xcodeSrc":  "Xcode-Input/extracted/Xcode-Slayer-030826",
     "xcodeProject":  "Unity-iPhone.xcodeproj",
     "scheme":  "Unity-iPhone",
-    "appName":  "NroKing.app",
-    "outputIpa":  "NroKing.ipa",
-    "artifactName":  "NroKing-ipa",
-    "bundleId":  "com.nroking.ttmtech",
-    "detectedAt":  "2026-08-10T07:54:26.5142472+07:00"
+    "appName":  "NroSlayer.app",
+    "outputIpa":  "NroSlayer.ipa",
+    "artifactName":  "NroSlayer-ipa",
+    "bundleId":  "com.nroslayer.ttmtech",
+    "detectedAt":  "2026-08-11T05:29:45.9630363+07:00"
 }
